@@ -1,1 +1,1 @@
-FROM ghcr.io/triggerdotdev/trigger.dev:v2.2.7
+FROM ghcr.io/triggerdotdev/trigger.dev:v2.2.10
