@@ -1,2 +1,2 @@
-FROM ghcr.io/triggerdotdev/trigger.dev:self-host-rc.3
+FROM ghcr.io/triggerdotdev/trigger.dev:main
 
