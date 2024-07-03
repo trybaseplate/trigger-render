@@ -1,2 +1,2 @@
-FROM ghcr.io/triggerdotdev/trigger.dev:main
+FROM ghcr.io/triggerdotdev/trigger.dev:latest
 
